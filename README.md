@@ -8,6 +8,6 @@ This project automates that process. By taking a list of company stock tickers a
 
 **Website selection: stockanalysis.com **
 
--Static Website: StockAnalysis.com is a static website, so the financial data for each company is contained in parseable table tags. In this case, the data is contained in table tags: <tr></tr> <td></td>.
+-Static Website: StockAnalysis.com is a static website, so the financial data for each company is contained in parseable table tags. In this case, the data is contained in table tags: < tr >< /tr > < td> < /td >.
 
 -Regulation Compliance: The robots.txt file of StockAnalysis.com allows scraping as long as specific disallowed bots (dotbot, BLEXBot, mj12bot) are not used.
